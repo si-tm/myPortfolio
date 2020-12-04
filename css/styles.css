@@ -1,0 +1,34 @@
+#left {
+	position: absolute;
+	top: 0;
+	left: 0px;
+	width: 220px;
+	height: 100%;
+	text-align: center;
+	}
+  #right{
+	position: absolute;
+	top: 0;
+	right: 20%;
+	left: 220px;
+	height: 100%;
+	/* border-left: 2px solid #D9E5FF; */
+	/* border-left: 2px solid linear-gradien(white, 10% , #0000FF); */
+	overflow: scroll;
+	/* overflow: hidden visible; */
+	}
+	#info{
+		position: fixed;
+		top: 160px;
+		right: 8px;
+		height: 100%;
+		width: 20%;
+		/* border: 1px solid #f0f0f0; */
+	}
+  iframe {
+	border: none;
+	height: 100%;
+	width: 100%;
+	}
+
+	

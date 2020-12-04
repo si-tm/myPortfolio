@@ -1,0 +1,13 @@
+
+ th {
+        padding: 5px;
+        background: rgb(211, 211, 164);
+        font-weight: bold;
+        line-height: 120%;
+        text-align: center;
+        width: 100%;
+    }
+    
+.borderless{
+    font-size: smaller;
+}

@@ -1,0 +1,28 @@
+.icon{
+    text-align: center;
+}
+
+.icon_moji{
+    font-family: "游教科書体","YuKyokasho";
+    line-height: 0;
+    font-weight: normal;
+    color: #000000;
+}
+
+body{
+    background: linear-gradien(white, 10% ,#bbbbbb);
+    /* background: -webkit-linear-gradient(top, #fff, #ddd); */
+}
+
+html {
+	min-height: 100%;
+}
+
+.menu_bar{
+    font-size: small;
+    margin-left: 24px;
+}
+
+a {
+    text-decoration: none;
+}
